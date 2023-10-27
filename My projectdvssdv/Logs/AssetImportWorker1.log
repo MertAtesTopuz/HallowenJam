@@ -196,3 +196,19 @@ Received Import Request.
 Start importing Assets/Script using Guid(03b809d761f834d1b85920e8d5f31acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077dfb5f474478afac40f4ac37bbd678') in 0.004769 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1382.197894 seconds.
+  path: Assets/Sprites/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png
+  artifactKey: Guid(053e161d8229e4a818dcdcc008d832b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kings and Pigs/Sprites/01-King Human/Dead (78x58).png using Guid(053e161d8229e4a818dcdcc008d832b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd0225ac47ff34cd6adc30473ebd90d3') in 0.233674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.728919 seconds.
+  path: Assets/Sprites/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png
+  artifactKey: Guid(33af1cb3f9e0b4650beca738294467e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kings and Pigs/Sprites/14-TileSets/Terrain (32x32).png using Guid(33af1cb3f9e0b4650beca738294467e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e27275dc17a0ab61174851daa89f4e') in 0.015672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
